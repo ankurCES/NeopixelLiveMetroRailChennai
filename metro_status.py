@@ -142,7 +142,7 @@ def get_metro_status(from_station_id, to_station_code, travel_date, travel_time)
     "ToStationCode": to_station_code,
     "strDate": travel_date,
     "strTime": travel_time,
-    "SecretKey": "$GrtJWlry#StH#QRit$kY"
+    "SecretKey": "$GrtJyNgl^#*StH#QRit$kY"
     })
     headers = {
     'Content-Type': 'application/json'
