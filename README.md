@@ -48,3 +48,5 @@ crontab -e
 @reboot sudo python3 /path/to script
 ```
 
+[Demo](https://youtube.com/shorts/eLv14lizPrQ?si=2FRvT8u8sRpRYZxp)
+
